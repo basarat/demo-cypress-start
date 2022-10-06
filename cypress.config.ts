@@ -14,4 +14,6 @@ export default defineConfig({
       bundler: "webpack",
     },
   },
+
+  experimentalWebKitSupport: true
 });
